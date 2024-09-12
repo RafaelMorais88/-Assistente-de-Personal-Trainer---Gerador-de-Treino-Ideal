@@ -1,9 +1,8 @@
 # -Assistente-de-Personal-Trainer---Gerador-de-Treino-Ideal
-Desafio para criar um prompt inteligente que gere planos de treino personalizados. O sistema considerará fatores como biotipo, tempo disponível e preferências de exercícios para oferecer um treino ideal para cada usuário. O projeto segue as melhores práticas de engenharia de prompts.
-Claro, posso te ajudar a criar um prompt para o "🏋️‍♂️ Assistente de Personal Trainer - Gerador de Treino Ideal". Aqui está uma sugestão:
 
+Desafio para criar um prompt inteligente que gere planos de treino personalizados. O sistema considerará fatores como biotipo, tempo disponível e preferências de exercícios para oferecer um treino ideal para cada usuário. O projeto segue as melhores práticas de engenharia de prompts.
 ---
-//Necessário preencher informações do aluno até "**Aluno:** [Nome do Aluno]" linha 25, após isso copie para qualquer IA generativa da linha 8 à 62 e teremos uma ficha de treino.
+//Necessário preencher informações do aluno até "**Aluno:** [Nome do Aluno]" linha 24, após isso copie para qualquer IA generativa da linha 7 à 61 e teremos uma ficha de treino.
 
 **🏋️‍♂️ Assistente de Personal Trainer - Gerador de Treino Ideal**
 
